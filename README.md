@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ye Xuan 👋
 
-<!--
-**LimYeXuan/LimYeXuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SE student by day. Writer (bad at it), aspiring visual novel creator (bad at drawing, learning), and I love school at night.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about me
+- 🎓 studying software engineering
+- ☕ learning java (it's going)
+- ✍️ i write things sometimes
+- 🎨 learning to draw (keyword: learning)
+- 🎮 aspiring visual novel creator
+- 📽️ video essay enthusiast
+- 🤔 tiny bit of a philosopher
+
+---
+
+## things that live in my head rent free
+
+> *"The unexamined life is not worth living."* — Socrates
+> (famously ugly, suspiciously handsome in every sculpture)
+
+---
+
+## the aesthetic
+
+liminal spaces — that feeling of being somewhere between here and there.
+
+![liminal space](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Backrooms.jpg/1280px-Backrooms.jpg)
+
+![liminal pool](https://upload.wikimedia.org/wikipedia/commons/a/a9/The_Backrooms_Level_0.jpg)
+
+---
+
+## languages & tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+## github stats
+![Ye Xuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimYeXuan&show_icons=true&theme=dark)
+
+---
+
+*this page is a work in progress. so am i.*
