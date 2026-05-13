@@ -26,8 +26,16 @@ SE student by day. Writer (bad at it), aspiring visual novel creator (bad at dra
 
 liminal spaces — that feeling of being somewhere between here and there.
 
+Sungei Weng, I've been here : D
 ![liminal space](https://github.com/user-attachments/assets/a30d282b-8ce9-490e-a205-0aeca7778741)
-![liminal pool](https://upload.wikimedia.org/wikipedia/commons/a/a9/The_Backrooms_Level_0.jpg)
+
+Subang Parade, been here too 
+![liminal space](https://github.com/user-attachments/assets/8ff7192b-6af2-44cb-80d3-c534b725018d)
+
+Sebastian
+![Sebastian](https://github.com/user-attachments/assets/9ed1ea29-89bd-4190-ab73-994be63856aa)
+
+
 
 ---
 
