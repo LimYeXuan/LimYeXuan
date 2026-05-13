@@ -43,7 +43,7 @@ Sebastian
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## github stats
-![Ye Xuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lim Ye Xuan&show_icons=true&theme=dark)
+![Ye Xuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimYeXuan&show_icons=true&theme=dark)
 ---
 
 *this page is a work in progress. so am i.*
