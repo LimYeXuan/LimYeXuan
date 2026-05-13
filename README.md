@@ -20,13 +20,14 @@ SE student by day. Writer (bad at it), aspiring visual novel creator (bad at dra
 > *"The unexamined life is not worth living."* — Socrates
 > (famously ugly, suspiciously handsome in every sculpture)
 
+> "Isn't Cannibal Corpse just... zombies?"* — Not Socrates
 ---
 
 ## the aesthetic
 
 liminal spaces — that feeling of being somewhere between here and there.
 
-Sungei Weng, I've been here : D
+Sungei Wang Plaza, I've been here : D
 ![liminal space](https://github.com/user-attachments/assets/a30d282b-8ce9-490e-a205-0aeca7778741)
 
 Subang Parade, been here too 
