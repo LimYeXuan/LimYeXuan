@@ -26,8 +26,8 @@ SE student by day. Writer (bad at it), aspiring visual novel creator (bad at dra
 
 liminal spaces — that feeling of being somewhere between here and there.
 
-![liminal space](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Backrooms.jpg/1280px-Backrooms.jpg)
-
+![liminal space](![Uploading image.png…]()
+)
 ![liminal pool](https://upload.wikimedia.org/wikipedia/commons/a/a9/The_Backrooms_Level_0.jpg)
 
 ---
