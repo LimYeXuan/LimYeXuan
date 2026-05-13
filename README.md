@@ -26,8 +26,7 @@ SE student by day. Writer (bad at it), aspiring visual novel creator (bad at dra
 
 liminal spaces — that feeling of being somewhere between here and there.
 
-![liminal space](<img width="1280" height="960" alt="SungeiWeng" src="https://github.com/user-attachments/assets/a30d282b-8ce9-490e-a205-0aeca7778741" />
-)
+![liminal space](https://github.com/user-attachments/assets/a30d282b-8ce9-490e-a205-0aeca7778741)
 ![liminal pool](https://upload.wikimedia.org/wikipedia/commons/a/a9/The_Backrooms_Level_0.jpg)
 
 ---
