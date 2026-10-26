@@ -18,14 +18,15 @@ SE student by day. Writer (bad at it), aspiring visual novel creator (bad at dra
 ## achievements
 - 🥈 **2nd place, DOSM Datathon 2026**
   - organised by the Department of Statistics Malaysia (DOSM), Ministry of Economy
-  - [Yay : D](link-to-your-photo)
+
+<img src="https://github.com/user-attachments/assets/48813287-6d2c-4d7d-8e1b-0f96176db721" alt="2nd place at DOSM Datathon 2026" width="400" />
 
 ---
 
 ## things that live in my head rent free
 
 > *"The unexamined life is not worth living."* — Socrates
-> (famously ugly, suspiciously handsome in every sculpture)
+> (famously ugly, suspiciously handsome in every sculpture. The romanticism of a Greek?)
 
 > "Isn't Cannibal Corpse just... zombies?" — Not Socrates
 ---
